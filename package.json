@@ -1,0 +1,16 @@
+{
+  "name": "sass_bem_compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sass_compiler_openai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "node-sass": "^8.0.0",
+    "postcss": "^8.4.21"
+  }
+}

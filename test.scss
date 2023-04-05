@@ -1,0 +1,16 @@
+.card {
+
+    color : red;
+
+    &_active {
+      color : blue;
+    }
+
+    &__title {
+      color : green;
+
+      &_active {
+        background-color: yellow;
+      }
+    }
+}
