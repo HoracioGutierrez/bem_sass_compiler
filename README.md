@@ -43,7 +43,7 @@ compileScss("mi-archivo.scss");
 3. Ejecuta el siguiente comando en la terminal para compilar tus archivos SCSS:
 
 ```
-node index.js
+node sass_compiler.js
 ```
 
 4. ¡Eso es todo! SASS-BEM Compiler generará automáticamente carpetas y archivos CSS siguiendo la metodología BEM.
